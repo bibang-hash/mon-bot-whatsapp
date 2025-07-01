@@ -1,0 +1,5 @@
+type,infos
+classique,"{'pickup': 'sacré cœur 3', 'delivery': 'liberté 6', 'description': 'petit sac à dos beige', 'recipient_name': 'kevin frederic', 'recipient_phone': '78 914 58 67'}"
+classique,"{'pickup': 'boulangerie jaune', 'delivery': 'ouakam', 'description': 'sac à main et parfums', 'recipient_name': 'kevin frederic', 'recipient_phone': '78 914 58 67'}"
+classique,"{'pickup': 'Hann Maristes', 'delivery': 'Liberté 4', 'description': 'Sac à dos beige et quelques livres', 'recipient_name': 'Kevin Frederic', 'recipient_phone': '78 914 58 67'}"
+classique,"{'pickup': 'Pikine', 'delivery': 'Castor', 'description': 'Vêtements', 'recipient_name': 'Laye', 'recipient_phone': '776665544'}"
