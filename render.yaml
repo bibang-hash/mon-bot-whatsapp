@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: mon-bot-whatsapp
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
